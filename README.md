@@ -1,4 +1,4 @@
-# Panayo
+# Panayo [![Build Status](https://travis-ci.org/hogewest/panayo.svg?branch=master)](https://travis-ci.org/hogewest/panayo)
 
 イ゛エ゛ニ゛カ゛エ゛ッ゛チ゛ャ゛ッ゛タ゛ノ゛？
 
