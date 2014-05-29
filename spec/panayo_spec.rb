@@ -6,6 +6,8 @@ describe Panayo do
   end
 
   it 'say' do
+    expect(Panayo.say(nil)).to be nil
+    expect(Panayo.say('')).to eq('')
     expect(Panayo.say('小泉花陽')).to eq('小泉花陽')
     expect(Panayo.say('こいずみぱなよ')).to eq('コ゛イ゛ス゛ミ゛ハ゛ナ゛ヨ゛')
     expect(Panayo.say('コイズミパナヨ')).to eq('コ゛イ゛ス゛ミ゛ハ゛ナ゛ヨ゛')
