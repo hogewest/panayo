@@ -1,7 +1,7 @@
 # Panayo
 
 [![Build Status](https://travis-ci.org/hogewest/panayo.svg?branch=master)](https://travis-ci.org/hogewest/panayo)
-[![Coverage Status](https://coveralls.io/repos/hogewest/panayo/badge.png)](https://coveralls.io/r/hogewest/panayo)
+[![Coverage Status](https://coveralls.io/repos/hogewest/panayo/badge.png?branch=master)](https://coveralls.io/r/hogewest/panayo?branch=master)
 
 イ゛エ゛ニ゛カ゛エ゛ッ゛チ゛ャ゛ッ゛タ゛ノ゛？
 
